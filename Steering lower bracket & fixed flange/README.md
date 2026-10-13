@@ -9,7 +9,7 @@ This project evaluates the structural behavior of the steering lower bracket and
 </p>
 
 <p align="center">
-  <img src="images/piesa.png" />
+  <img src="View1.png" />
 </p>
 
 ## Features
@@ -21,7 +21,7 @@ This project evaluates the structural behavior of the steering lower bracket and
 - Sensitivity analysis comparing dense mesh results (1-3mm elements) against a coarser mesh (5mm elements)
 
 <p align="center">
-  <img src="images/mesh.png" />
+  <img src="images/piesa.png" />
 </p>
 
 ## Technologies Used
@@ -29,6 +29,10 @@ This project evaluates the structural behavior of the steering lower bracket and
 - Software & Tools: Simcenter (for 3D/2D modeling and FEM simulation).
 - Materials: Aluminum Alloy Al 2014 (Elastic Modulus: 73.1 GPa, Yield Limit: 394 MPa).
 - Element Types: 2D triangular shell elements and RBE2 (Rigid Body Elements).
+
+<p align="center">
+  <img src="images/mesh.png" />
+</p>
 
 ## Architecture 
 
