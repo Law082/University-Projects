@@ -4,6 +4,10 @@
 
 A research project analyzing how artificial intelligence and the Da Vinci Research Kit (dVRK) enhance surgical precision, alongside a comparative study of patient outcomes between robotic and traditional surgeries.
 
+<p align="center">
+  <img src="images/prisma.png" />
+</p>
+
 ## Features
 
 - Systematic literature review using PICO and PRISMA frameworks to filter and analyze 15 relevant IEEE articles
