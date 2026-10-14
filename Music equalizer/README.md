@@ -4,6 +4,10 @@
 
 This project involves creating an audio spectrum analyzer (Audio Visualizer) capable of visually representing sound amplitude. Using a microphone to capture music or ambient noise, the system applies the Fast Fourier Transform (FFT) to decompose the complex signal into individual frequencies, which are then displayed on an LED matrix.
 
+<p align="center">
+  <img src="images/d.png" />
+</p>
+
 ## Features
 
 - Real-time sound capture using a microphone module.
