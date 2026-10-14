@@ -4,6 +4,10 @@
 
 This project develops a hardware-software hybrid interface that connects an Arduino microcontroller with the MATLAB Simulink physical simulation environment. Via a physical button connected to the Arduino, the user can directly trigger the generation of a pre-calculated trajectory (position, velocity, acceleration) and the activation of a 3D physical model in Simulink, observing real-time interaction between physical input and virtual simulation.
 
+<p align="center">
+  <img src="images/diagH.png" />
+</p>
+
 ## Features
 
 - Hardware-Software Integration: Connects an Arduino UNO development board directly with Simulink blocks via serial communication.
@@ -28,6 +32,10 @@ This project develops a hardware-software hybrid interface that connects an Ardu
 
 - Graphs were generated proving the successful execution of the trajectory over a $T = 4$ second interval, accurately depicting an S-curve for position, a parabola for velocity, and a linear downward slope for acceleration.
 - Execution over a 300-second duration with repeated button presses (3 times) confirms that the pause/clip logic and signal inversion functioned perfectly, generating motion exclusively upon user input.
+
+<p align="center">
+  <img src="images/buton.png" />
+</p>
 
 ## Documentation
 
