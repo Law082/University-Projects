@@ -16,7 +16,7 @@ Furthermore, an Augmented Reality (AR) Instagram effect was developed for the pr
 - Mesh Processing & Asset Import: Processed and converted CAD data using Meshlab for optimization before importing into the Unity engine.
 - Interactive Controls & Scripting: Implemented C# scripts in Unity to control operational components: A / D keys: Left and right translation of the box, Q / E keys: Left and right translation of the sealing apparatus, R key: Scene reset.
 - Virtual Environment: Assembled a complete industrial simulation scene with custom lighting, walls, and functional conveyor mechanics.
-- 
+
 
 <p align="center">
   <img src="images/cutie.png" />
