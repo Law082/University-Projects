@@ -4,6 +4,10 @@
 
 This project develops an object-oriented modular application in Python designed to model kinematic movements, generate geometric configurations, and simulate the operation of a 3-axis robot in a three-dimensional space. The application integrates homogeneous matrix calculations, 3D graphical rendering, and an interactive graphical user interface (GUI).
 
+<p align="center">
+  <img src="video-gif.gif" alt="Sequence 1" />
+</p>
+
 ## Features
 
 - Object-Oriented Modular Architecture: Implemented using abstract classes, inheritance, and composition across Classes.py, Robot.py, and main.py files.
