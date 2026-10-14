@@ -32,3 +32,5 @@ Furthermore, an Augmented Reality (AR) Instagram effect was developed for the pr
 ## Documentation
 
 [Presentation](Prezentare%20proiect%20RV.pptx)
+
+[Siemens](ESSS/Utilaj%20de%20lipit%20cutii_FINAL.pptx)
