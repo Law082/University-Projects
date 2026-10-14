@@ -4,6 +4,10 @@
 
 This project covers the mathematical sizing and full 3D CAD modeling of a linear hydraulic cylinder designed to operate an industrial robot. The mechanism is engineered to safely move a 350 kg load on a $15^\circ$ inclined plane.
 
+<p align="center">
+  <img src="images/desen.png" />
+</p>
+
 ## Features & Results
 
 - Component Sizing: Calculated the optimal piston diameter (50 mm) operating at 125.29 bar, and iteratively sized the cylinder rod (32 mm) using Euler's formula to prevent structural buckling
