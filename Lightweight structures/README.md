@@ -4,6 +4,10 @@
 
 This technical project documents the analytical calculation and structural simulation of a sandwich-type composite diving board. The structure features an H60 foam core and GFRP (Glass Fiber Reinforced Polymer) outer skins. The main goal is to optimize mass and cost while strictly adhering to rigidity and deformation limits under load.
 
+<p align="center">
+  <img src="images/sandw.png" />
+</p>
+
 ## Features
 
 - Sandwich Design: The diving board measures 1410 mm in length, 500 mm in width, and has a total thickness of 28 mm (25 mm H60 core, and 1.5 mm GFRP skin on each side).
@@ -16,6 +20,10 @@ This technical project documents the analytical calculation and structural simul
 - FEA Software Simcenter3D: Structural simulation utilizing a 10 mm tetrahedral mesh to analyze deformations and stresses across the core and skins.
 - Data Analysis: Microsoft Excel for centralizing material parameters, evaluating costs, and calculating stresses and safety factors.
 
+<p align="center">
+  <img src="images/meshg.png" />
+</p>
+
 ## Architecture
 
 The methodology began by defining the geometric and material properties: a modulus of elasticity ($E_f$) of 20,000 MPa for the GFRP skins, and specific foam parameters (e.g., $G_c = 22$ MPa) for the H60 core. Rigorous analytical calculations were performed to determine stiffness and theoretical maximum displacement ($W$). An FEA simulation was then executed. Finally, the values were compared to ensure they met the required safety factor of 5, with allowable stresses capped at 80 MPa for the skin and 0.12 MPa for the core.
@@ -25,6 +33,10 @@ The methodology began by defining the geometric and material properties: a modul
 - Simulation Error: The absolute difference between the theoretical calculation and the simulation resulted in a deformation error of approximately 36.13 mm.
 - The structural parameters (203.72 mm simulated displacement and 6.13 N/mm stiffness) fully comply with the design specifications and safety limits.
 - The project successfully demonstrated the viability of using composite materials for structures subjected to recurrent bending forces, achieving an excellent balance between low mass (4.44 kg) and high structural integrity.
+
+<p align="center">
+  <img src="images/disp.png" />
+</p>
 
 ## Documentation 
 
