@@ -22,5 +22,5 @@ This project covers the mathematical sizing and full 3D CAD modeling of a linear
 
 ## Documentation
 
-[Presentation](Memoriu%20de%20calcul.docx)
+[Documentation](Memoriu%20de%20calcul.docx)
 
