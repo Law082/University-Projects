@@ -42,4 +42,4 @@ The design methodology began with establishing the geometry in CATIA to determin
 
 ## Documentation
 
-[Presentation](Condrea%20Laurentiu%20SM.pdf)
+[Documentation](Condrea%20Laurentiu%20SM.pdf)
