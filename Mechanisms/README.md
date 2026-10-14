@@ -4,6 +4,10 @@
 
 A structural and kinematic analysis of a bi-contour articulated linkage mechanism and a compound planetary gear train.
 
+<p align="center">
+  <img src="images/tema.png" />
+</p>
+
 ## Features
 
 - Mathematical derivation and graphical validation of motion functions ($\phi_3$, $s_5$) for a 1-DOF linkage mechanism.
