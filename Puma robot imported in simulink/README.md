@@ -6,10 +6,18 @@ This project represents the foundational baseline that served as the starting po
 
 Notably, this foundational project explores two advanced control architectures—Inverse Dynamic Control and Cartesian Space Control—which provide a deep mathematical approach to robot kinematics and dynamics.
 
+<p align="center">
+  <img src="images/puma.png" />
+</p>
+
 ## Features
 
 - Inverse Dynamic Control: This method explicitly calculates the exact forces and torques required to move the robot by mathematically modeling its physical properties. It uses the Lagrange-Euler method to compute the Inertia $M(q)$, Coriolis $B(q)$, Centrifugal $C(q)$, and Gravity $G(q)$ matrices. By feeding these calculations into the system, it effectively cancels out the robot's nonlinearities, allowing for highly precise joint control.
 - Cartesian Space Control: Instead of controlling the angles of each individual joint separately, this method controls the robot's end-effector directly in the 3D X-Y-Z space. It achieves this by using Forward Kinematics (Homogeneous Transformation Matrices) to map the joint space to Cartesian coordinates, and utilizes the Jacobian matrix to accurately map velocities and accelerations.
+
+<p align="center">
+  <img src="images/dinamic.png" />
+</p>
 
 ## Technologies Used
 
