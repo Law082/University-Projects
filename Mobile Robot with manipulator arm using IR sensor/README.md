@@ -6,6 +6,10 @@ This project involves building and programming a mobile robot, controlled by an 
 
 Note: This mobile robot project served as the foundational proof-of-concept that ultimately inspired and launched my Bachelor's Degree project. The hands-on experience gained here with chassis locomotion, multi-axis robotic arms, and Arduino-based IR control directly influenced the design and architecture of my final thesis.
 
+<p align="center">
+  <img src="images/robot.png" />
+</p>
+
 ## Features 
 
 - Tracked locomotion: "Tank" style system, controlled by two L9110 motor drivers, allowing complex movements (forward, backward, pivoting).
@@ -19,6 +23,10 @@ Note: This mobile robot project served as the foundational proof-of-concept that
 - Hardware (Locomotion & Actuation): Tracked chassis with 2 DC motors, 2 x L9110 motor drivers, 5 x servomotors for the arm.
 - Hardware (Power & Control): 5V power supply, voltage stabilizer, IR sensor + remote control, LED status module
 - Software: Arduino IDE (C/C++), Servo.h and DIYables_IRcontroller.h libraries.
+
+<p align="center">
+  <img src="images/spate.png" />
+</p>
 
 ## Architecture
 
