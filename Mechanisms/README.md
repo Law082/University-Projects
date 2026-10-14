@@ -26,5 +26,5 @@ A structural and kinematic analysis of a bi-contour articulated linkage mechanis
 
 ## Documentation 
 
-[Presentation](Condrea%20Laurentiu.pdf)
+[Documentation](Condrea%20Laurentiu.pdf)
 
