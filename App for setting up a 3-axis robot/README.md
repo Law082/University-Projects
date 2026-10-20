@@ -38,3 +38,5 @@ The application structure is divided into three primary modules:
 [Presentation](Prezentare-Aplicatie.pptx)
 
 [Documentation](Aplicatie%20de%20calcul%20pentru%20configurarea%20unui%20robot%20(1).pdf)
+
+[Video](videoP.mp4)
